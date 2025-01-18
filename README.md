@@ -1,5 +1,6 @@
-Assignments and the final project can be found in the **`assignment`** folder.
-
+<center>
+    <img src="img/logo.png" alt="image" width="800"/>
+</center>
 
 ## An open, electronic textbook
 
